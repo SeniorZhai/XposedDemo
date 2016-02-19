@@ -1,4 +1,4 @@
-package com.seniorzhai.xposeddemo;
+package com.seniorzhai.myapplication;
 
 import org.junit.Test;
 
